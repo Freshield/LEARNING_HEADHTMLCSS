@@ -21,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StarBuzz.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StarBuzz.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StarBuzz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.0">
-              <caret line="16" column="12" selection-start-line="15" selection-start-column="9" selection-end-line="16" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.20860215">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mission.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mission.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mission.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34408602">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state vertical-scroll-proportion="-4.263158">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -64,8 +64,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test/material.txt" />
-        <option value="$PROJECT_DIR$/StarBuzz.html" />
         <option value="$PROJECT_DIR$/mission.html" />
+        <option value="$PROJECT_DIR$/StarBuzz.html" />
       </list>
     </option>
   </component>
@@ -158,7 +158,7 @@
     <property name="FullScreen" value="false" />
     <property name="editor.config.accepted" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.mission.html">
+  <component name="RunManager" selected="JavaScript Debug.StarBuzz.html">
     <configuration default="false" name="StarBuzz.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/chp1_2/StarBuzz.html">
       <method />
     </configuration>
@@ -209,8 +209,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.mission.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.StarBuzz.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.StarBuzz.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.mission.html" />
       </list>
     </recent_temporary>
   </component>
@@ -299,18 +299,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StarBuzz.html">
+    <entry file="file://$PROJECT_DIR$/mission.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.0">
-          <caret line="16" column="12" selection-start-line="15" selection-start-column="9" selection-end-line="16" selection-end-column="12" />
+        <state vertical-scroll-proportion="-4.263158">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mission.html">
+    <entry file="file://$PROJECT_DIR$/StarBuzz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34408602">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.20860215">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding />
         </state>
       </provider>
