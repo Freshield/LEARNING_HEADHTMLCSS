@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/segway.html" line="22" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef5e675-5ee5-4554-9091-b923b1a51b03" name="Default" comment="" />
-    <ignored path="chp3_1.iws" />
+    <list default="true" id="6d4e1e32-eee8-41c6-a5f9-5ae2866c70e2" name="Default" comment="" />
+    <ignored path="chp3_2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,15 +17,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="chp3_1" />
+    <favorites_list name="chp3_2" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="segway.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/segway.html">
+      <file leaf-file-name="Top100.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Top100.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6764045">
-              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.71235955">
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -46,7 +43,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/segway.html" />
+        <option value="$PROJECT_DIR$/Top100.html" />
       </list>
     </option>
   </component>
@@ -90,24 +87,24 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chp3_1" />
+              <option name="myItemId" value="chp3_2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chp3_1" />
+              <option name="myItemId" value="chp3_2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chp3_1" />
+              <option name="myItemId" value="chp3_2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,8 +113,8 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.segway.html">
-    <configuration default="false" name="segway.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/chp3_1/segway.html">
+  <component name="RunManager" selected="JavaScript Debug.Top100.html">
+    <configuration default="false" name="Top100.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/chp3_2/Top100.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -153,21 +150,21 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.segway.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Top100.html" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.segway.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Top100.html" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ef5e675-5ee5-4554-9091-b923b1a51b03" name="Default" comment="" />
-      <created>1456159000002</created>
+      <changelist id="6d4e1e32-eee8-41c6-a5f9-5ae2866c70e2" name="Default" comment="" />
+      <created>1456161203081</created>
       <option name="number" value="Default" />
-      <updated>1456159000002</updated>
+      <updated>1456161203081</updated>
     </task>
     <servers />
   </component>
@@ -202,10 +199,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/segway.html">
+    <entry file="file://$PROJECT_DIR$/Top100.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6764045">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.71235955">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
           <folding />
         </state>
       </provider>
