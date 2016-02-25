@@ -27,8 +27,8 @@
       <file leaf-file-name="elixir.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beverages/elixir.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.1025643">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state vertical-scroll-proportion="-3.6923077">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <file leaf-file-name="lounge.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lounge.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.794872">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state vertical-scroll-proportion="-3.2051282">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -47,8 +47,8 @@
       <file leaf-file-name="lounge.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lounge.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6551724">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.79310346">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,8 +78,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/elixir.html" />
-        <option value="$PROJECT_DIR$/lounge.html" />
         <option value="$PROJECT_DIR$/about/directions.html" />
+        <option value="$PROJECT_DIR$/lounge.html" />
         <option value="$PROJECT_DIR$/beverages/elixir.html" />
         <option value="$PROJECT_DIR$/lounge.css" />
       </list>
@@ -192,7 +192,7 @@
       <recent name="D:\MEGA\LEARN_BYSELF\HTML\HEADFIRSTHTMLCSS\chp2_1\about" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.lounge.html">
+  <component name="RunManager" selected="JavaScript Debug.elixir.html">
     <configuration default="false" name="elixir.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/chp2_1/beverages/elixir.html">
       <method />
     </configuration>
@@ -247,8 +247,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.lounge.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.elixir.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.elixir.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.lounge.html" />
         <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.directions.html" />
       </list>
     </recent_temporary>
@@ -351,26 +351,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beverages/elixir.html">
+    <entry file="file://$PROJECT_DIR$/lounge.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.1025643">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state vertical-scroll-proportion="-3.2051282">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lounge.html">
+    <entry file="file://$PROJECT_DIR$/beverages/elixir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.794872">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state vertical-scroll-proportion="-3.6923077">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lounge.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6551724">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.79310346">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
