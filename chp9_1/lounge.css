@@ -16,15 +16,16 @@ h2{
     font-size: 130%;
 }
 
-.guarantee{
-    border-color: black;
+#guarantee{
+    border-color: white;
     border-width: 1px;
-    border-style: groove;
+    border-style: dashed;
+    border-radius: 40px;
     background-color: #a7cece;
     padding: 25px;
     padding-left: 80px;
     margin: 30px;
-    margin-right: 250px;
+    margin-right: 40%;
     line-height: 190%;
     font-style: italic;
     color: #444444;
@@ -32,4 +33,8 @@ h2{
     background-image: url(images/background.gif);
     background-repeat: no-repeat;
     background-position: top left;
+}
+
+#footer{
+    color:red;
 }
