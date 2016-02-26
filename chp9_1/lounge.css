@@ -1,7 +1,6 @@
 body{
-    font-size: small;
-    font-family: Verdana, Helvetica, Arial, sans-serif;
-    line-height: 160%;
+
+    font: small/160% Verdana, Helvetica, Arial, sans-serif;
 }
 
 h1,h2{
@@ -17,11 +16,10 @@ h2{
 }
 
 #guarantee{
-    border-color: white;
-    border-width: 1px;
-    border-style: dashed;
+
+    border: white 1px dashed;
     border-radius: 40px;
-    background-color: #a7cece;
+
     padding: 25px;
     padding-left: 80px;
     margin: 30px;
@@ -30,9 +28,8 @@ h2{
     font-style: italic;
     color: #444444;
     font-family: Georgia, "Times New Roman", Times, serif;
-    background-image: url(images/background.gif);
-    background-repeat: no-repeat;
-    background-position: top left;
+
+    background: top left no-repeat #a7cece url(images/background.gif);
 }
 
 #footer{
@@ -66,7 +63,13 @@ h2{
     color: #d12c47;
 }
 
+#copyright{
+    font-size: 50%;
+    text-align: center;
+    line-height: normal;
+    margin-top: 30px;
 
+}
 
 
 
