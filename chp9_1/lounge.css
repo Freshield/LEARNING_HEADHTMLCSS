@@ -53,6 +53,8 @@ h2{
 
     line-height: 1;
 
+    float: right;
+
 }
 
 #elixirs>h2{
@@ -90,7 +92,16 @@ h2{
     color: #0d5353;
 }
 
+#direction:link{
+    color: #007e7e;
+}
+#direction:visited{
+    color: #333333;
+}
 
+#logo{
+    border-bottom: dashed gray;
+}
 
 
 
