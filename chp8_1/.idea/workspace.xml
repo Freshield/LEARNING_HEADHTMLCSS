@@ -21,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Font.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Font.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Font.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.41025642">
+            <state vertical-scroll-proportion="0.035955057">
               <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Font.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Font.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Font.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55172414">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state vertical-scroll-proportion="-17.6">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -218,18 +218,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Font.html">
+    <entry file="file://$PROJECT_DIR$/Font.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.41025642">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state vertical-scroll-proportion="-17.6">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Font.css">
+    <entry file="file://$PROJECT_DIR$/Font.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55172414">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.035955057">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>
