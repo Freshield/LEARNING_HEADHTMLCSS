@@ -81,22 +81,3 @@ div#tableRow{
 
     right: 10px;
 }
-
-#award{
-    position: absolute;
-    top: 30px;
-    left: 40%;
-}
-
-#coupon{
-
-    position: relative;
-    top: 20px;
-    left: -90px;
-}
-
-#coupon a, img{
-    border: none;
-}
-
-
