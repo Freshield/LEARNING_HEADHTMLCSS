@@ -11,12 +11,21 @@
 <body>
 
 <!----------------hearder part---------------------->
-<div id="header">
+<header class="top">
     <img id="headerLogo"
          src="images/headerLogo.gif" alt="Starbuzz Coffee header image">
     <img id="headerSlogan"
          src="images/headerSlogan.gif" alt="providing all the caffeine you need">
-</div>
+</header>
+
+<!------------------navigator part----------------------->
+<ul>
+    <li class="selected"><a href="index.html">HOME</a></li>
+    <li><a href="blog.html">BLOG</a></li>
+    <li><a href="">INVENTIONS</a></li>
+    <li><a href="">RECIPES</a></li>
+    <li><a href="">LOCATIONS</a></li>
+</ul>
 
 <!----------------table part---------------------->
 <div id="tableContainer">
@@ -25,25 +34,28 @@
     <div id="tableRow">
 
         <!----------------drinks cell part---------------------->
-        <div id="drinks">
+        <section id="drinks">
             <h1>BEVERAGES</h1>
-            <p>HOUSE BLEND,</p>
-            <P>MOCHA CAFE</P>
-            <P>CAPPUCCINO</P>
-            <P>CHAI TEA</P>
-            <h1>elixier</h1>
-            <p>we proudly serve elixirs brewed by our friends</p>
-            <p>green tea cooler</p>
-            <p>rasberry ice</p>
-            <p>bluseberry bliss</p>
-            <p>cranberry antioxidant</p>
-            <p>chai chiller</p>
-            <p>black brain brew</p>
-        </div>
+            <p>House Blend, $1.49</p>
+            <p>Mocha Cafe Latte, $2.35</p>
+            <p>Cappuccino, $1.89</p>
+            <p>Chai Tea, $1.85</p>
+            <h1>ELIXIRS</h1>
+            <p>
+                We proudly serve elixirs brewed by our friends
+                at the Head First Lounge.
+            </p>
+            <p>Green Tea Cooler, $2.99</p>
+            <p>Raspberry Ice Concentration, $2.99</p>
+            <p>Blueberry Bliss Elixir, $2.99</p>
+            <p>Cranberry Antioxidant Blast, $2.99</p>
+            <p>Chai Chiller, $2.99</p>
+            <p>Black Brain Brew, $2.99</p>
+        </section>
 
 
         <!----------------main cell part---------------------->
-        <div id="main">
+        <section id="main">
             <h1>QUALITY COFFEE, QUALITY CAFFEINE</h1>
             <p>
                 At Starbuzz Coffee, we are dedicated to filling all your  caffeine needs through our
@@ -88,10 +100,10 @@
                 <a href="form.html" title="form.html">Bean Machine</a>, and take
                 the Starbuzz Coffee experience home.
             </p>
-        </div>
+        </section>
 
         <!----------------sidebar cell part---------------------->
-        <div id="sidebar">
+        <aside>
             <p class="beanheading">
                 <img src="images/bag.gif" alt="Bean Machine bag">
                 <br>
@@ -111,7 +123,7 @@
                 enter your order, and behind the scenes, your coffee is roasted, ground
                 (if you want), packaged, and shipped to your door.
             </p>
-        </div>
+        </aside>
 
 </div>
 
@@ -119,12 +131,12 @@
 
 
 <!----------------footer part---------------------->
-<div id="footer">
+<footer>
     &copy; 2012, Starbuzz Coffee
     <br>
     All trademarks and registered trademarks appearing on
     this site are the property of their respective owners.
-</div>
+</footer>>
 
 </body>
 </html>

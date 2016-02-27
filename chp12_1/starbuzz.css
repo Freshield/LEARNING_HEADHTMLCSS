@@ -5,13 +5,14 @@ body {
   margin:           0px;
 }
 
-#header {
+header.top {
   background-color: #675c47;
   margin:           10px,10px,0px,10px;
   height:           108px;
 }
 
-#drinks{
+
+section#drinks{
     display: table-cell;
     background-color: #efe5d0;
     width:20%;
@@ -19,7 +20,7 @@ body {
     vertical-align: top;
 }
 
-#main {
+section#main,section#blog {
     display: table-cell;
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
@@ -27,7 +28,7 @@ body {
   vertical-align: top;
 }
 
-#sidebar {
+aside {
     display: table-cell;
   background:       #efe5d0 url(images/background.gif) bottom right;
   font-size:        105%;
@@ -35,7 +36,7 @@ body {
   vertical-align: top;
 }
 
-#footer {
+footer {
   background-color: #675c47;
   color:            #efe5d0;
   text-align:       center;
@@ -81,3 +82,35 @@ div#tableRow{
 
     right: 10px;
 }
+
+nav{
+    background-color: #efe5d0;
+    margin: 10px 10px 0px 10px;
+}
+nav ul{
+    margin: 0px;
+    list-style-type: none;
+    padding: 5px 0px 5px 0px;
+}
+
+nav ul li{
+    display: inline;
+    padding: 5px 10px 5px 10px;
+}
+
+nav ul li a:link,nav  ul li a:visited{
+    color:#954b4b;
+    border-bottom: none;
+    font-weight: bold;
+}
+
+nav ul li.selected{
+    background-color: #c8b99c;
+}
+
+
+
+
+
+
+
