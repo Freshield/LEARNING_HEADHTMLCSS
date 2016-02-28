@@ -1,8 +1,6 @@
 body{
     background: #efe5d0 url(images/background.gif) top left;
-    width: 800px;
-    margin-right: auto;
-    margin-left: auto;
+
 
 }
 
@@ -35,6 +33,12 @@ div.tableRow p:first-child{
 
 p.heading{
     font-weight: bold;
+}
+
+.jello{
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 
