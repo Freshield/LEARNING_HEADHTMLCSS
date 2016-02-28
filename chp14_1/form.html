@@ -2,63 +2,104 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="starbuzz.css">
+    <link rel="stylesheet" type="text/css" href="styledform.css">
     <title>The Starbuzz Bean Machine</title>
   </head>
   <body>
 
     <h1>The Starbuzz Bean Machine</h1>
     <h2>Fill out the form below and click "order now" to order</h2>
-    <form action="http://starbuzzcoffee.com/processorder.php" method="post">
-        <!-- select beans-->
-        <p>
-            Choose your beans:
-            <select name="beans">
-                <option value="House Blend">House Blend</option>
-                <option value="Bolivia">Shade Grown Bolivia Supremo</option>
-                <option value="Guatemala">Organic Guatemala</option>
-                <option value="Kenya">Kenya</option>
-            </select>
-        </p>
-        <!-- beans type-->
-        <p>
-            Type:<br>
+    <form action="http://starbuzzcoffee.com/processorder.php" method="get">
+        <div class="tableRow">
+            <!-- select beans-->
+            <p>
+                Choose your beans:
+            </p>
+            <p>
+                <select name="beans">
+                    <option value="House Blend">House Blend</option>
+                    <option value="Bolivia">Shade Grown Bolivia Supremo</option>
+                    <option value="Guatemala">Organic Guatemala</option>
+                    <option value="Kenya">Kenya</option>
+                </select>
+            </p>
+        </div>
+        <div class="tableRow">
+            <!-- beans type-->
+            <p>
+                Type:</p>
+                <p>
+                    <input type="radio" name="beantype" value="while"> Whole bean<br>
+                    <input type="radio" name="beantype" value="ground" checked> Ground
 
-            <input type="radio" name="beantype" value="while"> Whole bean<br>
-            <input type="radio" name="beantype" value="ground" checked> Ground
-        </p>
-        <!-- beans number-->
-        <p>
-            Number of bags:<input type="number" name="bags" min="1" max="10">
-        </p>
-        <!-- beans date-->
-        <p>
-            Must arrive by date:<input type="date" name="date">
-        </p>
-        <!-- extras opinion-->
-        <p>
-            Extras:<br>
-            <input type="checkbox" name="extras[]" value="giftweap">Gift wrap<br>
-            <input type="checkbox" name="extras[]" value="catalog" checked>Include catalog with order
-        </p>
-        <!-- ship address-->
-        <p>Ship to:<br>
-            Name:   <input type="text" name="name"><br>
-            Address:<input type="text" name="address"><br>
-            City:   <input type="text" name="city"><br>
-            State:  <input type="text" name="state"><br>
-            Zip:    <input type="text" name="zip"><br>
-            Phone:  <input type="text" name="phone"><br>
+                </p>
 
-        </p>
-        <!-- comments-->
-        <p>
-            Customer Comments:<br>
+
+        </div>
+        <div class="tableRow">
+            <!-- beans number-->
+            <p>
+                Number of bags:</p>
+            <p><input type="number" name="bags" min="1" max="10">
+            </p>
+        </div>
+        <div class="tableRow label">
+            <!-- beans date-->
+            <p>
+                Must arrive by date:</p>
+            <p><input type="date" name="date">
+            </p>
+        </div>
+        <div class="tableRow">
+            <!-- extras opinion-->
+            <p>
+                Extras:</p>
+            <p>
+                <input type="checkbox" name="extras[]" value="giftweap">Gift wrap<br>
+                <input type="checkbox" name="extras[]" value="catalog" checked>Include catalog with order
+            </p>
+
+        </div>
+        <div class="tableRow">
+            <!-- ship address-->
+            <p class="heading">Ship to:</p>
+            <p></p>
+        </div>
+        <div class="tableRow">
+            <p>Name:</p>   <p><input type="text" name="name"></p>
+        </div>
+        <div class="tableRow">
+            <p>Address:</p><p><input type="text" name="address"></p>
+        </div>
+        <div class="tableRow">
+            <p>City:</p>   <p><input type="text" name="city"></p>
+        </div>
+        <div class="tableRow">
+            <p>State:</p>  <p><input type="text" name="state"></p>
+        </div>
+        <div class="tableRow">
+            <p>Zip:</p>    <p><input type="text" name="zip"></p>
+        </div>
+        <div class="tableRow">
+            <p>Phone:</p>  <p><input type="text" name="phone"></p>
+        </div>
+        <div class="tableRow">
+            <!-- comments-->
+            <p>
+                Customer Comments:</p>
+            <p>
                 <textarea name="comments"></textarea>
-        </p>
-        <!-- submit button-->
-        <p>
-            <input type="submit" value="Order Now">
-        </p>
+            </p>
+        </div>
+        <div class="tableRow">
+            <!-- submit button-->
+            <p></p>
+            <p>
+                <input type="submit" value="Order Now">
+            </p>
+        </div>
+
     </form>
 
 
