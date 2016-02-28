@@ -27,11 +27,12 @@ div.tableRow p{
 }
 
 div.tableRow p:first-child{
-    text-align: right
-;
+    text-align: right;
+
 }
 
 p.heading{
+
     font-weight: bold;
 }
 
