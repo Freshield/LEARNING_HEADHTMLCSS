@@ -50,15 +50,19 @@ th{
     background-color: #cc6600;
 }
 
-/*.cellcolor{
-    background-color: #fcba7a;
-}*/
-
-tr:nth-child(2n+1){
+.cellcolor{
     background-color: #fcba7a;
 }
 
+table table th{
+    background-color: white;
+}
 
-
+li{
+    list-style-image: url("images/backpack.gif");
+    padding: 5px;
+    margin-left: 20px;
+    list-style-position: inside;
+}
 
 
